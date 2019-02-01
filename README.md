@@ -1,1 +1,3 @@
-![screenshot](./nodeshot.jpg)
+![screenshot](./nodeshot.JPG)
+
+[screenshot](./nodeshot2.JPG)
